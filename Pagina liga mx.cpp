@@ -1,7 +1,4 @@
 
-// Desarrollar un programa que utilice lo que hemos visto hasta hoy, 
-//Utilice lo que hemos visto hasta hoy 
-// TODO(if, switch, operadores lógicos, o de comparacion
 
 #include <iostream>
 using namespace std;
